@@ -1,0 +1,17 @@
+{
+  "livePreview": false,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden",
+  "showInlineTitle": false,
+  "attachmentFolderPath": "z_Assets",
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "frames": [
+    {
+      "url": "https://www.dndbeyond.com/characters/155701722",
+      "displayName": "DNDBeyond",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/18gmJwA-t54iBq-Cifppvs6milwYP05_SmWI-OajzuuQ/edit?usp=sharing",
+      "displayName": "PriceCalc",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1CLh1DTwSYliYsr_hOXyjnM3vZi-QqsKaY-UZQkF5SIM/edit?gid=289742551#gid=289742551",
+      "displayName": "PayCalc",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
