@@ -9,6 +9,8 @@ views:
       and:
         - type == "pc"
         - file.folder != "z_Templates"
+        - '!file.name.contains("Deceased")'
+        - '!file.name.contains("Template")'
     order:
       - file.name
       - player

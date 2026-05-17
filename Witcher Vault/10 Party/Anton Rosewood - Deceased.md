@@ -25,7 +25,7 @@ tags: [pc, witcher]
 > **Initiative:** `=this.modifier`
 > **Homeland:**  Kovir
 > **Disposition:** Disgruntled
-> **Status:** [[#Status|Cursed]]
+> **Status:** Deceased
 > 
 > | Gear          | Total DP | Current DP |
 >| ------------- | -------- | ---------- |

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d3a8581b6782e80",
+            "id": "ed2baeb086fee347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Party/Anton Rosewood.md",
-                "mode": "source",
+                "file": "10 Party/Spiros Dawnspear.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Anton Rosewood"
+              "title": "Spiros Dawnspear"
             }
           }
         ]
@@ -255,16 +255,34 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "2d3a8581b6782e80",
+  "active": "ed2baeb086fee347",
   "lastOpenFiles": [
+    "z_Assets/Spiros-Portrait.png",
+    "10 Party/Spiros Dawnspear.md",
+    "10 Party/Along the Path.md",
+    "z_Assets/Indra-Portrait.png",
+    "z_Assets/Indra-Portrait_1.png",
+    "10 Party/Anton Rosewood - Deceased.md",
+    "10 Party/Zinbalar Mistwhisper.md",
+    "10 Party/Frixion.md",
+    "10 Party/Frixion of Mahakam.md",
+    "z_templates/Player Character Template.md",
+    "z_templates/Player Character Template.md",
+    "10 Party/Indra Taran.md",
+    "10 Party/Indra Taran - Me.md",
+    "10 Party/Zinbalar Mistwhisperer.md",
+    "10 Party/files.zip",
+    "10 Party/Indra Taran_1.md",
+    "10 Party/Frixion_1.md",
+    "10 Party/Zinbalar Mistwhisper_1.md",
+    "10 Party/Spiros Dawnspear_1.md",
+    "10 Party/files (1).zip",
     "10 Party/Character Sheets/Frixion.pdf",
     "10 Party/Character Sheets/Indra.pdf",
     "10 Party/Character Sheets/Spiros.pdf",
     "10 Party/Character Sheets/Zinbalar.pdf",
     "10 Party/Character Sheets",
     "10 Party/New folder",
-    "z_templates/Player Character Template.md",
-    "10 Party/Along the Path.md",
     "04 Quests/Crafted/Test Quest.md",
     "07 Sessions/2026-05-18.md",
     "z_templates/Quest Template.md",
@@ -273,36 +291,17 @@
     "Test.md",
     "00 System/Mechanics/Items/Economy of the Continent.md",
     "08 Mechanics/Payout.md",
-    "10 Party/Zinbalar Mistwhisperer.md",
-    "10 Party/Indra Taran.md",
-    "10 Party/Frixion of Mahakam.md",
-    "10 Party/Anton Rosewood.md",
     "07 Sessions/Scratch Notes/Random Notes.md",
     "07 Sessions/Scratch Notes",
     "07 Sessions/0. Scratch Notes/Random Notes.md",
     "07 Sessions/0. Scratch Notes",
-    "07 Sessions/2025-12-03.md",
-    "08 Mechanics/Custom Rules/Toxicity.md",
-    "08 Mechanics/Custom Rules/Resting.md",
-    "08 Mechanics/Economy/Pricing Guide.md",
-    "08 Mechanics/Economy/Price Calc.md",
-    "08 Mechanics/Economy/Pay Guide.md",
-    "08 Mechanics/Custom Rules/Mutagen System.md",
-    "08 Mechanics/Custom Rules/magical items that don't exist.md",
-    "08 Mechanics/Economy/Economy of the Continent.md",
     "z_Assets/Map of Lyria.png",
     "z_Assets/continent.jpg",
     "z_Assets/Continent_Map.png",
-    "04 Quests/Crafted",
-    "04 Quests/Completed/Children of the Crooked Tree Folder",
-    "01 NPCs/Minor",
     "00 System/Untitled.canvas",
     "z_Assets/Settlement Placehold.png",
     "06 Maps/City Maps/Map of Lyria.png",
     "z_Assets/Anton-Portrait.png",
-    "z_Assets/Pasted image 20251125173332.png",
-    "z_Assets/Indra-Portrait.png",
-    "z_Assets/Indra-Portrait.png",
-    "z_Assets/Frixion-Portrait.png"
+    "z_Assets/Pasted image 20251125173332.png"
   ]
 }
