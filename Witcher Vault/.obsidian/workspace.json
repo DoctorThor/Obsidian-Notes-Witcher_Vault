@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dc74fcff4452a51e",
+        "id": "336655d275fecf6a",
         "type": "tabs",
         "children": [
           {
-            "id": "a473470b15ab5de9",
+            "id": "2d3a8581b6782e80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 System/Mechanics/Items/Economy of the Continent.md",
-                "mode": "preview",
+                "file": "10 Party/Anton Rosewood.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Economy of the Continent"
+              "title": "Anton Rosewood"
             }
           }
         ]
@@ -157,8 +157,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -167,8 +167,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -177,8 +177,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -190,9 +190,29 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "1f88ebcc5c212faf",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "aa7bd3fc90f71103",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "284659d6a8757ef0",
@@ -219,12 +239,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -232,57 +246,63 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a473470b15ab5de9",
+  "active": "2d3a8581b6782e80",
   "lastOpenFiles": [
-    "07 Bestiary/Witcher Monsters/Aldric the Wretched.md",
+    "10 Party/Character Sheets/Frixion.pdf",
+    "10 Party/Character Sheets/Indra.pdf",
+    "10 Party/Character Sheets/Spiros.pdf",
+    "10 Party/Character Sheets/Zinbalar.pdf",
+    "10 Party/Character Sheets",
+    "10 Party/New folder",
+    "z_templates/Player Character Template.md",
+    "10 Party/Along the Path.md",
+    "04 Quests/Crafted/Test Quest.md",
+    "07 Sessions/2026-05-18.md",
+    "z_templates/Quest Template.md",
+    "07 Sessions/2026-03-25.md",
+    "07 Sessions/2025-11-12.md",
+    "Test.md",
     "00 System/Mechanics/Items/Economy of the Continent.md",
-    "07 Bestiary/Witcher Monsters/Sylaen.md",
-    "05 Quests/Adventures/Adventure Hooks/Children of the Crooked Tree Folder/Children of the Crooked Tree.md",
-    "05 Quests/Adventures/Encounters.md",
-    "05 Quests/Adventures/Adventure Hooks/Children of the Crooked Tree.md",
-    "05 Quests/Witcher Contracts/The Amulet of Old Hall.md",
-    "05 Quests/Adventures/Adventure Hooks/Claw of the Forgotten Bear.md",
-    "z_templates/Witcher Contract Template.md",
-    "z_templates/VAULT_STRUCTURE.md",
-    "z_templates/Session Notes Template.md",
-    "z_templates/NPC Template.md",
-    "z_templates/Monster Template.md",
-    "z_templates/Magic Item Template.md",
-    "z_templates/Location Template.md",
-    "z_templates/Faction Template.md",
-    "z_templates/Bulletin Board Quest Template.md",
-    "06 Maps/Region Maps/Map of the Continent.md",
-    "z_templates/files.zip",
-    "z_templates",
-    "New folder",
-    "00 System/Mechanics/Systems/Resting.md",
-    "00 System/z_Templates/InfoBox.md",
-    "05 Quests/Adventures/The Lost Knight's Curse.md",
-    "01 World Lore/Curse of the Lost Knight.md",
-    "08 Session Logs/2025-12-03.md",
-    "08 Session Logs/2025-11-12.md",
-    "08 Session Logs/2026-03-25.md",
-    "08 Session Logs/12-15-2025.md",
-    "00 System/Mechanics/Systems",
-    "00 System/Mechanics/Items",
+    "08 Mechanics/Payout.md",
+    "10 Party/Zinbalar Mistwhisperer.md",
+    "10 Party/Indra Taran.md",
+    "10 Party/Frixion of Mahakam.md",
+    "10 Party/Anton Rosewood.md",
+    "07 Sessions/Scratch Notes/Random Notes.md",
+    "07 Sessions/Scratch Notes",
+    "07 Sessions/0. Scratch Notes/Random Notes.md",
+    "07 Sessions/0. Scratch Notes",
+    "07 Sessions/2025-12-03.md",
+    "08 Mechanics/Custom Rules/Toxicity.md",
+    "08 Mechanics/Custom Rules/Resting.md",
+    "08 Mechanics/Economy/Pricing Guide.md",
+    "08 Mechanics/Economy/Price Calc.md",
+    "08 Mechanics/Economy/Pay Guide.md",
+    "08 Mechanics/Custom Rules/Mutagen System.md",
+    "08 Mechanics/Custom Rules/magical items that don't exist.md",
+    "08 Mechanics/Economy/Economy of the Continent.md",
+    "z_Assets/Map of Lyria.png",
+    "z_Assets/continent.jpg",
+    "z_Assets/Continent_Map.png",
+    "04 Quests/Crafted",
+    "04 Quests/Completed/Children of the Crooked Tree Folder",
+    "01 NPCs/Minor",
     "00 System/Untitled.canvas",
-    "07 Bestiary/Homebrew Variants",
-    "07 Bestiary/Witcher Monsters",
-    "06 Maps/Dungeon Maps",
-    "06 Maps/Region Maps",
-    "06 Maps/City Maps",
     "z_Assets/Settlement Placehold.png",
     "06 Maps/City Maps/Map of Lyria.png",
     "z_Assets/Anton-Portrait.png",
     "z_Assets/Pasted image 20251125173332.png",
     "z_Assets/Indra-Portrait.png",
     "z_Assets/Indra-Portrait.png",
-    "z_Assets/Frixion-Portrait.png",
-    "z_Assets/Zinbalar-Portrait.png",
-    "z_Assets/Ilaris the Bard - Tarot Portrait.png",
-    "06 Maps/Region Maps/Continent_Map.png"
+    "z_Assets/Frixion-Portrait.png"
   ]
 }

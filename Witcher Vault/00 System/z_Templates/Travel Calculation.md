@@ -1,1 +1,0 @@
-`=round((distance)/[[Travel Configuration]].MilesPerDay)`

@@ -1,2 +1,0 @@
-> [!infobox]+ 
-> # `=this.file.name`
